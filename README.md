@@ -1,4 +1,4 @@
-**Excel Sales and Finance Analytics Project ofAtliQHardwares Codebasics **
+#Excel Sales and Finance Analytics Project ofAtliQHardwares Codebasics
 
 AtliQ Hardware, a leading global hardware firm specializing in PCs, printers, mice, and computers, is looking to increase sales and improve profit margins.
 

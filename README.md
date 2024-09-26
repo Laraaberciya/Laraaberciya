@@ -1,5 +1,5 @@
-#Excel Sales and Finance Analytics Project ofAtliQHardwares Codebasics 
-
+**Excel Sales and Finance Analytics Project ofAtliQHardwares Codebasics 
+**
 AtliQ Hardware, a leading global hardware firm specializing in PCs, printers, mice, and computers, is looking to increase sales and improve profit margins.
 
 The Sales Director no longer wants to rely on reports or Excel files from various regional managers, as the vast amount of data spread across different files doesn’t easily yield valuable insights. This is where the role of a Data Analyst becomes crucial.
